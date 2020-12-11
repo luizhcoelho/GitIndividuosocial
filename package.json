@@ -1,0 +1,26 @@
+{
+  "name": "IndividuoSocial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizhcoelho/GitIndividuosocial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luizhcoelho/GitIndividuosocial/issues"
+  },
+  "homepage": "https://github.com/luizhcoelho/GitIndividuosocial#readme",
+  "description": ""
+}
