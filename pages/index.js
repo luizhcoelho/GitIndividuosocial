@@ -9,7 +9,7 @@ function Home() {
         <Image src="/instagram.svg"  alt="me"   width="26"  height="26" />
         <Image src="/youtube.svg"  alt="me"   width="26"  height="26" />
         <Image src="/Blogger.svg"  alt="me"   width="26"  height="26" />
-        <Image src="/Telefone.svg"  alt="me"   width="26"  height="26" />
+        <Image src="/telefone.svg"  alt="me"   width="26"  height="26" />
         <Image src="/email.svg"  alt="me"   width="26"  height="26" />
         <Image src="/Localização.svg"  alt="me"   width="26"  height="26" />
 
