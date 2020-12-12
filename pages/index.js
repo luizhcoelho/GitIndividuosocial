@@ -2,8 +2,20 @@ import {useState } from 'react';
 
 function Home(){
     return (
-        <div>
-            <h1>Homei2</h1>
+
+        <div class ="container">
+            <reader>
+
+                <h1>Homei2</h1>
+
+                <img src="../Icons/Tumb Tube New.jpg"
+                alt="Imagem não encontrada"
+                width={500}
+                height={500}
+            
+            />
+            </reader>
+            
             <Contador />
 
 
