@@ -8,12 +8,12 @@ function Home(){
 
                 <h1>Homei2</h1>
 
-                <img src="../Icons/Tumb Tube New.jpg"
-                alt="Imagem não encontrada"
-                width={500}
-                height={500}
-            
-            />
+                <img
+                    src="https://github.com/luizhcoelho/GitIndividuosocial/blob/main/Icons/Blogger.svg"
+                    alt="My Image"
+                    width={300}
+                    height={300}
+                />
             </reader>
             
             <Contador />
