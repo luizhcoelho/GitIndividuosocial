@@ -25,7 +25,7 @@ function Home() {
         </a>
 
         <a href="https://chat.whatsapp.com/IVrLKCeb5KUGAULVGvWvCd" target="_blank">
-        <Image src="/Telefone.svg"  alt="Telefone Icon"   width="26"  height="26" title="Telefone: (32) 99108-3770"  />
+        <Image src="/Telefone.svg"  alt="telefone Icon"   width="26"  height="26" title="Telefone: (32) 99108-3770"  />
         </a>
 
         <a href="individuosocialbr@gmail.com" target="_blank">
