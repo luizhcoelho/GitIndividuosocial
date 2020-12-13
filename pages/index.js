@@ -64,7 +64,7 @@ function Home() {
             <Image src="/Tumb News Later.jpg"  alt="me"   width="200"  height="110" />
         </body>    
         
-        <footer>
+        <footer className={styles.footer}>
 
             <p>2020 - Node.js - GitHub - Vercel - Feito por Indivíduo Social</p>
 
