@@ -61,19 +61,19 @@ function Home() {
 
                     <li>
                         <a href="https://www.facebook.com/IndividuoSocial" target="_blank">
-                        <Image src="/facebook.svg"  alt="facebook Icon"   width="26"  height="26" title="FaceBook" />
+                        <Image src="/facebook.svg"  alt="facebook Icon"   width="26"  height="26" title="FaceBook @IndividuoSocial" />
                         </a>
                     </li>
 
                     <li>
                         <a href="https://www.instagram.com/individuosocial/" target="_blank">
-                        <Image src="/instagram.svg"  alt="minstagram Icon"   width="26"  height="26" title="Instagram" />
+                        <Image src="/instagram.svg"  alt="minstagram Icon"   width="26"  height="26" title="Instagram @IndividuoSocial" />
                         </a>
                     </li>
 
                     <li>
                         <a href="https://www.youtube.com/channel/UCnXNCenEARk-Z2lFKeHBASw/featured?view_as=subscriber" target="_blank">
-                        <Image src="/youtube.svg"  alt="youtube Icon"   width="26"  height="26" title="YouTube" />
+                        <Image src="/youtube.svg"  alt="youtube Icon"   width="26"  height="26" title="YouTube @Indivíduo Social"/>
                         </a>
                     </li>
 
@@ -90,8 +90,8 @@ function Home() {
                     </li>
 
                     <li>
-                        <a href="individuosocialbr@gmail.com" target="_blank">
-                        <Image src="/email.svg"  alt="Email Icon"   width="26l"  height="26" title="E-Mail:" />
+                        <a href="/" target="_blank">
+                        <Image src="/email.svg"  alt="Email Icon"   width="26l"  height="26" title="E-Mail: individuosocialbr@gmail.com" />
                         </a>
                     </li>
 
@@ -110,7 +110,7 @@ function Home() {
 
         <body className={styles.corpo}>
             <div>
-            <iframe width="990" height="490" src="https://www.youtube.com/embed/tWrGkMn9lHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="990" height="490" src="https://www.youtube.com/embed/qhzUHWqXaXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             
 
@@ -120,7 +120,7 @@ function Home() {
 
                     <li>
                        <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
-                        <h1>Tube New</h1>
+                        <h1>Tube News</h1>
                         <Image src="/Tumb Tube New.jpg"  alt="#indivíduossociais"   width="400"  height="250" />
                         </a>
                     </li>
@@ -240,7 +240,7 @@ function Home() {
         <footer className={styles.footer}>
 
             <p>- 2020 - Tecnologias: <a href="https://nodejs.org/en/">Node.js</a> - <a href="https://github.com/luizhcoelho">GitHub</a> - <a href="https://vercel.com/luizhcoelho/git-individuosocial">Vercel</a> -
-             <a href="https://cloud.mongodb.com/v2/5fd7e6847395192b8f15b1cd#clusters">MongoDB</a> - HTML - Java - CSS -  Feito por <a href="https://individuosocial.com.br" alt="indivíduosocial">Indivíduo Social</a> -</p>
+             <a href="https://cloud.mongodb.com/v2/5fd7e6847395192b8f15b1cd#clusters">MongoDB</a> - <a href="https://icon-icons.com">Icon-Icon</a> -  Feito por <a href="https://individuosocial.com.br" alt="indivíduosocial">Indivíduo Social</a> -</p>
 
         </footer>
         
