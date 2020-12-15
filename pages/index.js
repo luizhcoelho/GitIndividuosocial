@@ -5,10 +5,22 @@ import styles from '../styles/Home.module.scss'
 function Home() {
   return (
     <div>
+        <head>
+            <title> Indivíduo Social - Hub Social Medias </title>
+            <meta name="author" content="Indíviduo Social"></meta>
+            <meta name="description" content="Blog, Blogger, Vlog, Tecnologias, Cursos, Noticias, Programação, Psciologia, 
+            Historia, Games, Youtube, Youtuber, Social Media, Individuo Social, Indivíduo Social, Individuosocial, indivíduosocial"></meta>
+            <meta name="keywords" content="Indíviduo Social, Individuo Social, Indivíduosocial,individuosocial, Programação, 
+            Tecnologia, Móveis Planejados, Social, Indíviduo, Cursos, CSS, HTML, Java, Github, Youtube, Facebook, Next.js, React, 
+            Blog,Blogger,individuosocial.com.br, Promob, Corel Draw, Photophop, Camtasia, Manutenção"></meta>
+            
+
+        </head>
+
         <header className={styles.cabeca} >
-            
-            <Image href="/" src="/Logo Individuo Social.svg"  alt="me"   width="195"  height="70" class="top-right" />
-            
+           <a href="http://www.individuosocial.com.br" >
+                <Image  src="/Logo Individuo Social.svg"  alt="Logo individuosocial Icon"   width="195"  height="70" />
+                </a>  
                 <main>
                     <nav>
                         <ul className={styles.menuPrincipal}>
@@ -107,38 +119,39 @@ function Home() {
                 <ul2 className={styles.menuSocundario}>
 
                     <li>
+                       <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
                         <h1>Tube New</h1>
-                        <Image src="/Tumb Tube New.jpg"  alt="me"   width="400"  height="250" />
+                        <Image src="/Tumb Tube New.jpg"  alt="#indivíduossociais"   width="400"  height="250" />
+                        </a>
                     </li>
 
                     <li>
+                         <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
                         <h1>Moveis Individuais</h1>
-                        <Image src="/Tumb Moveis Individuais.jpg"  alt="me"   width="400"  height="250" />
+                        <Image src="/Tumb Moveis Individuais.jpg"  alt="#individuossociais"   width="400"  height="250" />
+                        </a>
                     </li>
 
                     <li>
+                       <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
                         <h1>Cotidiano do Individuo</h1>
-                        <Image src="/Tumb Cotidiano do Individuo.jpg"  alt="me"   width="400"  height="250" />
+                        <Image src="/Tumb Cotidiano do Individuo.jpg"  alt="indivíduossociais"   width="400"  height="250" />
+                        </a>
+
                     </li>
 
                     <li>
+                       <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
                         <h1>Cursos para o social</h1>
-                        <Image src="/Tumb Cursos para o social.jpg"  alt="me"   width="400"  height="250" />    
+                        <Image src="/Tumb Cursos para o social.jpg"  alt="individuossociais"   width="400"  height="250" />  
+                        </a>  
                     </li>
 
                 </ul2>
 
-                
-
-                
-     
-
+  
             </div>
 
-            
-                
-            
-            
 
         </body>    
 
@@ -152,11 +165,12 @@ function Home() {
                 <li3>
                     <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
                         <p>
-                            <Image src="/Tumb News Later.jpg"  alt="me"   width="200"  height="110" />
+                            <Image src="/Tumb News Later.jpg"  alt="#individuosocial"   width="200"  height="110" />
+                            
                             <blockquote>
 
                             
-                                <h1>Titulo dos posts</h1>
+                                <h1><Image src="/youtube.svg"  alt="youtube Icon"   width="26"  height="26" title="YouTube" />Titulo dos posts</h1>
                                 Descrição de todo o conteudo com avaliação e maximo de 
                                 imagens e logica possivel, de forma engajar as pessoas a
                                 permanecer mais tempo na pagina possivel.
@@ -168,11 +182,12 @@ function Home() {
                     <li3>
                     <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
                         <p>
-                            <Image src="/Tumb News Later.jpg"  alt="me"   width="200"  height="110" />
+                            <Image src="/Tumb News Later.jpg"  alt="Individuo Social"   width="200"  height="110" />
+                            
                             <blockquote>
 
                             
-                                <h1>Titulo dos posts</h1>
+                                <h1><Image src="/whatsapp.svg"  alt="whatsapp Icon"   width="26"  height="26" title="Whatsapp" />Titulo dos posts</h1>
                                 Descrição de todo o conteudo com avaliação e maximo de 
                                 imagens e logica possivel, de forma engajar as pessoas a
                                 permanecer mais tempo na pagina possivel.
@@ -184,11 +199,12 @@ function Home() {
                     <li3>
                     <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
                         <p>
-                            <Image src="/Tumb News Later.jpg"  alt="me"   width="200"  height="110" />
+                            <Image src="/Tumb News Later.jpg"  alt="Indivíduo Social"   width="200"  height="110" />
+                            
                             <blockquote>
 
                             
-                                <h1>Titulo dos posts</h1>
+                                <h1><Image src="/instagram.svg"  alt="minstagram Icon"   width="26"  height="26" title="Instagram" />Titulo dos posts</h1>
                                 Descrição de todo o conteudo com avaliação e maximo de 
                                 imagens e logica possivel, de forma engajar as pessoas a
                                 permanecer mais tempo na pagina possivel.
@@ -196,16 +212,17 @@ function Home() {
                         </p>
                     </a>
                     </li3>
-                    
+
 
                     <li3>
                     <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
                         <p>
-                            <Image src="/Tumb News Later.jpg"  alt="me"   width="200"  height="110" />
+                            <Image src="/Tumb News Later.jpg"  alt="Indivíduos Sociais"   width="200"  height="110" />
+                            
                             <blockquote>
 
                             
-                                <h1>Titulo dos posts</h1>
+                                <h1><Image src="/facebook.svg"  alt="facebook Icon"   width="26"  height="26" title="FaceBook" />Titulo dos posts</h1>
                                 Descrição de todo o conteudo com avaliação e maximo de 
                                 imagens e logica possivel, de forma engajar as pessoas a
                                 permanecer mais tempo na pagina possivel.
@@ -223,7 +240,7 @@ function Home() {
         <footer className={styles.footer}>
 
             <p>- 2020 - Tecnologias: <a href="https://nodejs.org/en/">Node.js</a> - <a href="https://github.com/luizhcoelho">GitHub</a> - <a href="https://vercel.com/luizhcoelho/git-individuosocial">Vercel</a> -
-             <a href="https://cloud.mongodb.com/v2/5fd7e6847395192b8f15b1cd#clusters">MongoDB</a> - HTML - Java - CSS -  Feito por <a href="https://individuosocial.com.br">Indivíduo Social</a> -</p>
+             <a href="https://cloud.mongodb.com/v2/5fd7e6847395192b8f15b1cd#clusters">MongoDB</a> - HTML - Java - CSS -  Feito por <a href="https://individuosocial.com.br" alt="indivíduosocial">Indivíduo Social</a> -</p>
 
         </footer>
         
