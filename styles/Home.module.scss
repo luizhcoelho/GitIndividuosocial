@@ -3,7 +3,7 @@
   display: flex;
   height: 100px;
   
-  background: rgba(247, 247, 247, 0.514);
+  background: rgba(240, 240, 240, 0.514);
   max-width: 1200px;
   
   box-shadow: 0px 5px 2px #999;
@@ -62,8 +62,106 @@
   margin: 0 auto;
   margin-top: 20px;
   text-align: center;
+
+
   
 }
+.corpo ul2{
+  display: grid;
+  list-style: none;
+  grid-template-columns: 1fr 1fr;
+  
+  max-width: 1100px;
+  margin: 0 auto;
+
+
+}
+.corpo ul2 li{
+  background: chartreuse;
+  margin: 0 auto;
+  margin-top: 25px;
+  
+ 
+  padding: 20px;
+  padding-top: 10px;
+  line-height: 0px;
+  box-shadow: 0px -5px 2px #999;
+  background: rgba(240, 240, 240, 0.514);
+  
+  
+  box-shadow: 2px 5px 3px #999;
+
+}
+
+.button{
+  
+  
+  max-width: 1020px;
+  
+  list-style: none;
+  
+  margin: 0 auto;
+
+  margin-top: 12px;
+  margin-bottom: 25px;
+  border: 0px;
+  background: none;
+
+  
+}
+.button ul3 {
+  
+  float: left;
+  display: inline;
+}
+.button div{
+  float: left;
+  display: inline;
+  
+}
+
+.button ul3 li3 {
+
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+
+  background: rgba(240, 240, 240, 0.514);
+  box-shadow: 2px 5px 3px #999;
+  
+  margin: 10px;
+
+  padding-right: 10px;
+  margin: 3px;
+  margin-right: 10px;
+  padding-left: 5px;
+  margin-left: 10px;
+  
+  
+}
+
+.button p{
+ 
+  
+  text-align: left;
+  padding-left: 20px;
+  
+  
+  
+}
+
+.button blockquote{
+  margin: 2px;
+  display: grid;
+  margin: 0px;
+  padding-left: 20px;
+  
+ 
+
+}
+
+
 
 
 .footer {
@@ -71,7 +169,7 @@
   padding-top: 4px;
   text-align: center;
   box-shadow: 0px -5px 2px #999;
-  background: rgba(247, 247, 247, 0.514);
+  background: rgba(240, 240, 240, 0.514);
   max-width: 1200px;
 
 }

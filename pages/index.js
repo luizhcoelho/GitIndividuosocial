@@ -19,19 +19,19 @@ function Home() {
                             </li>   
 
                             <li>
-                                <a href="www.individuosocial.com.br">
+                                <a href="http://www.individuosocial.com.br">
                                     Cotidiano do Indivíduo
                                 </a>
                             </li> 
 
                             <li>
-                                <a href="www.individuosocial.com.br">
+                                <a href="http://www.individuosocial.com.br">
                                     Móveis Individuais
                                 </a>
                             </li> 
 
                             <li>
-                                <a href="www.individuosocial.com.br">
+                                <a href="http://www.individuosocial.com.br">
                                     Cursos para o social
                                 </a>
                             </li> 
@@ -97,29 +97,137 @@ function Home() {
         </header>
 
         <body className={styles.corpo}>
-            <iframe width="870" height="490" src="https://www.youtube.com/embed/tWrGkMn9lHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div>
+            <iframe width="990" height="490" src="https://www.youtube.com/embed/tWrGkMn9lHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            
 
+            <div>
 
+                <ul2 className={styles.menuSocundario}>
 
-            <h1>Tube New</h1>
-            <Image src="/Tumb Tube New.jpg"  alt="me"   width="400"  height="250" />
-            <h1>Moveis Individuais</h1>
-            <Image src="/Tumb Moveis Individuais.jpg"  alt="me"   width="400"  height="250" />
-            <h1>Cotidiano do Individuo</h1>
-            <Image src="/Tumb Cotidiano do Individuo.jpg"  alt="me"   width="400"  height="250" />
-            <h1>Cursos para o social</h1>
-            <Image src="/Tumb Cursos para o social.jpg"  alt="me"   width="400"  height="250" />
-            <h1>Global News Later</h1>
-            <Image src="/Tumb News Later.jpg"  alt="me"   width="200"  height="110" />
+                    <li>
+                        <h1>Tube New</h1>
+                        <Image src="/Tumb Tube New.jpg"  alt="me"   width="400"  height="250" />
+                    </li>
+
+                    <li>
+                        <h1>Moveis Individuais</h1>
+                        <Image src="/Tumb Moveis Individuais.jpg"  alt="me"   width="400"  height="250" />
+                    </li>
+
+                    <li>
+                        <h1>Cotidiano do Individuo</h1>
+                        <Image src="/Tumb Cotidiano do Individuo.jpg"  alt="me"   width="400"  height="250" />
+                    </li>
+
+                    <li>
+                        <h1>Cursos para o social</h1>
+                        <Image src="/Tumb Cursos para o social.jpg"  alt="me"   width="400"  height="250" />    
+                    </li>
+
+                </ul2>
+
+                
+
+                
+     
+
+            </div>
+
+            
+                
+            
+            
+
         </body>    
+
+
+
+        <button className={styles.button}>
+        <h1>Global News Later</h1>
+                               
+                <ul3 className={styles.ul3}>
+
+                <li3>
+                    <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
+                        <p>
+                            <Image src="/Tumb News Later.jpg"  alt="me"   width="200"  height="110" />
+                            <blockquote>
+
+                            
+                                <h1>Titulo dos posts</h1>
+                                Descrição de todo o conteudo com avaliação e maximo de 
+                                imagens e logica possivel, de forma engajar as pessoas a
+                                permanecer mais tempo na pagina possivel.
+                            </blockquote>
+                        </p>
+                    </a>
+                    </li3>
+
+                    <li3>
+                    <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
+                        <p>
+                            <Image src="/Tumb News Later.jpg"  alt="me"   width="200"  height="110" />
+                            <blockquote>
+
+                            
+                                <h1>Titulo dos posts</h1>
+                                Descrição de todo o conteudo com avaliação e maximo de 
+                                imagens e logica possivel, de forma engajar as pessoas a
+                                permanecer mais tempo na pagina possivel.
+                            </blockquote>
+                        </p>
+                    </a>
+                    </li3>
+
+                    <li3>
+                    <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
+                        <p>
+                            <Image src="/Tumb News Later.jpg"  alt="me"   width="200"  height="110" />
+                            <blockquote>
+
+                            
+                                <h1>Titulo dos posts</h1>
+                                Descrição de todo o conteudo com avaliação e maximo de 
+                                imagens e logica possivel, de forma engajar as pessoas a
+                                permanecer mais tempo na pagina possivel.
+                            </blockquote>
+                        </p>
+                    </a>
+                    </li3>
+                    
+
+                    <li3>
+                    <a href="https://goo.gl/maps/HZqNz8c3doY9gDex7" target="_blank">
+                        <p>
+                            <Image src="/Tumb News Later.jpg"  alt="me"   width="200"  height="110" />
+                            <blockquote>
+
+                            
+                                <h1>Titulo dos posts</h1>
+                                Descrição de todo o conteudo com avaliação e maximo de 
+                                imagens e logica possivel, de forma engajar as pessoas a
+                                permanecer mais tempo na pagina possivel.
+                            </blockquote>
+                        </p>
+                    </a>
+                    </li3>
+
+                </ul3>
+                
+
+
+            </button>
         
         <footer className={styles.footer}>
 
-            <p>2020 - Node.js - GitHub - Vercel - Feito por Indivíduo Social</p>
+            <p>- 2020 - Tecnologias: <a href="https://nodejs.org/en/">Node.js</a> - <a href="https://github.com/luizhcoelho">GitHub</a> - <a href="https://vercel.com/luizhcoelho/git-individuosocial">Vercel</a> -
+             <a href="https://cloud.mongodb.com/v2/5fd7e6847395192b8f15b1cd#clusters">MongoDB</a> - HTML - Java - CSS -  Feito por <a href="https://individuosocial.com.br">Indivíduo Social</a> -</p>
 
         </footer>
-
-
+        
+        
 
     </div>
     )
