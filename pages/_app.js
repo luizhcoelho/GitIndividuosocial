@@ -1,4 +1,5 @@
 import '../styles/Home.module.scss'
+import '../styles/_curoscss.scss'
 
 
 function MyApp({ Component, pageProps }) {
