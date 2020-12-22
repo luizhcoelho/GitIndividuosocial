@@ -19,7 +19,7 @@ function Home() {
         </head>
 
         <header className={styles.cabeca} >
-           <a href="http://www.individuosocial.com.br" >
+           <a href="http://www.individuosocial.com.br" className={styles.a}>
                 <Image  src="/Logo Individuo Social.svg"  alt="Logo individuosocial Icon"   width="195"  height="70" />
                 </a>  
                 <main>
@@ -121,7 +121,7 @@ function Home() {
         
         <footer className={styles.footer}>
 
-            <p>- 2020 - Tecnologias: <a href="https://nodejs.org/en/">Node.js</a> - <a href="https://github.com/luizhcoelho">GitHub</a> - <a href="https://vercel.com/luizhcoelho/git-individuosocial">Vercel</a> -
+            <p>- 2020 - 2021 - Tecnologias: <a href="https://nodejs.org/en/">Node.js</a> - <a href="https://github.com/luizhcoelho">GitHub</a> - <a href="https://vercel.com/luizhcoelho/git-individuosocial">Vercel</a> -
              <a href="https://cloud.mongodb.com/v2/5fd7e6847395192b8f15b1cd#clusters">MongoDB</a> - <a href="https://icon-icons.com">Icon-Icon</a> -  Feito por <a href="https://individuosocial.com.br" alt="indivíduosocial">Indivíduo Social</a> -</p>
 
         </footer>
