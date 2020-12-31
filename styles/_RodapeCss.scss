@@ -1,0 +1,71 @@
+
+.footer{
+  position:absolute;
+  bottom:0;
+  
+}
+
+.Rodape{
+
+  padding-top: 6px;
+  padding-bottom: 13px;
+  
+  text-align: center;
+  box-shadow: 3px -5px 15px #999;
+
+  width: 99%;
+  max-width: 99%;
+  background:rgb(225, 222, 231);
+  //position: fixed;
+  font-size: 1.3vw;
+  -moz-transition: all 0.8s;    
+  -webkit-transition: all 0.8s;
+  transition: all 0.8s;
+
+}
+
+.Rodape:hover {
+  -moz-transform:scale(1.029);
+  -webkit-transform:scale(1.029);
+  transform:scale(1.029);
+ 
+}
+
+
+.Rodape p{
+-moz-transition: all 0.8s;    
+-webkit-transition: all 0.8s;
+transition: all 0.8s;
+}
+
+.Rodape p:hover {
+  -moz-transform:scale(1.05);
+  -webkit-transform:scale(1.05);
+  transform:scale(1.05);
+  font-weight:bold;
+    color:rgb(78, 78, 78);
+    
+
+}
+
+
+.Rodape a{
+  -moz-transition: all 0.8s;    
+  -webkit-transition: all 0.8s;
+  transition: all 0.8s;
+}
+
+.Rodape a:hover{
+  font-weight:bold;
+  -moz-transform:scale(1.1);
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);
+  font-size: 1.7vw;
+
+}
+
+.button{
+  border-radius: 15px;
+  border-width: 0px;
+  
+}
