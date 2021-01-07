@@ -13,12 +13,9 @@ function jogodavelha() {
     <html>      
     
             
-        <Head>
-            <meta charset="utf-8"/>
             <title>Bolinha Amarela - Tutorial YouTube - Filipe Alves</title>
 
-        </Head> 
-        < noscript > Você precisa habilitar o JavaScript para executar este aplicativo. </ noscript >
+
         <body>
 
         <tictic/>

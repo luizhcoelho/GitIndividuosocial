@@ -1,3 +1,4 @@
+/*
 import('html2canvas').then(html2canvas => {
     html2canvas.default(document.body).then(canvas => 
       document.body.appendChild(canvas)
@@ -36,4 +37,4 @@ function roda(){}
 function atualiza(){}
 function desenhada(){}
 
-inicial();
+inicial();*/
