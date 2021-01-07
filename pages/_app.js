@@ -2,7 +2,7 @@ import '../styles/Home.module.scss';
 import '../styles/_RodapeCss.scss';
 import '../styles/_CabecalhoCss.scss';
 import '../styles/_CorpoPcss.scss';
-import '../pages/componentes/JogoDaVelha/_jogodavelhacss.scss'
+//import '../pages/componentes/JogoDaVelha/_jogodavelhacss.scss'
 import Head from 'next/head';
 
 
