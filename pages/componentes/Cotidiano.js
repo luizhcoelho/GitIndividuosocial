@@ -6,34 +6,36 @@ import Footer from './Footer'
 
 function Cotidiano() {
   return (
-    <div className={styles.CorpoCursos}>
+   
        
-       
-           <html className={styles.normalize}>
+    <body >
 
-        <head></head>
+
+     
                
             <div >
                     <header>
                         <Header/>
                     </header>
                     
-                    <body >
+                   
                         
                     <h1>Cotidiano do Individuo</h1>
 
-                    </body>    
+                      
                     
                     <footer>
                         <Footer/>
                     </footer>
             </div>
+
+    </body>  
             
 
-    </html>
+ 
         
 
-    </div>
+  
     )
 }
 

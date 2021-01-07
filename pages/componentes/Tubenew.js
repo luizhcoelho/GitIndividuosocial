@@ -4,25 +4,24 @@ import styles from '../../styles/Home.module.scss'
 import Header from './Header'
 import Footer from './Footer'
 
-function Cotidiano() {
+function Tubenew() {
   return (
-    <div className={styles.CorpoCursos}>
+  
        
-       
-           <html className={styles.normalize}>
+    <body >
 
-        <head></head>
+
                
             <div >
                     <header>
                         <Header/>
                     </header>
                     
-                    <body >
+                   
                         
                     <h1>Tube-News</h1>
 
-                    </body>    
+                      
                     
                     <footer>
                         <Footer/>
@@ -30,11 +29,11 @@ function Cotidiano() {
             </div>
             
 
-    </html>
+     </body> 
         
 
-    </div>
+
     )
 }
 
-export default Cotidiano
+export default Tubenew
