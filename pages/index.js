@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import React from 'react'
+
 import styles from '../styles/Home.module.scss'
 import Link from 'next/link'
 import Head from 'next/head';
@@ -24,10 +24,7 @@ function Home() {
                     <CorpoPrincipal/>
                 
 
-                <a href="../componentes/JogoDaVelha/jogodavelha">
-                            
-                    Jogo da velha
-                </a>
+
 
                
             <footer>
