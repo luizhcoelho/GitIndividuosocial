@@ -131,6 +131,7 @@ function CorpoPrincipal() {
             </button>
         </div>
     )
+    
 }
 
 export default CorpoPrincipal
