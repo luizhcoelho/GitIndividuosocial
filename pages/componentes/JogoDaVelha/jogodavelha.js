@@ -10,19 +10,19 @@ import tictic from './tictactoe.js'
 
 function jogodavelha() {
   return (
-    <html>      
+    <body>     
     
             
             <title>Bolinha Amarela - Tutorial YouTube - Filipe Alves</title>
 
 
-        <body>
+        
 
-        <tictic/>
+
 
 	    </body>
 
-    </html>
+
   )
 }
 
