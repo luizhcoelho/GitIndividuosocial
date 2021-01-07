@@ -5,7 +5,7 @@ import Header from '../Header'
 import Footer from '../Footer'
 import Head from 'next/head'
 import tictic from './tictactoe.js'
-import  Canvas  from  ' ./Canvas '
+
 
 
 function jogodavelha() {
